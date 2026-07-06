@@ -220,20 +220,3 @@ python app/main.py
 # 🎓 Project
 
 Developed as a prototype for the **Google AI Agents Capstone Project** on Kaggle.
-
----
-
-# 👨‍💻 Author
-
-**Aman Sachdeva**
-
-MBA Business Analytics  
-Chandigarh University
-
-GitHub: https://github.com/amansachdeva160
-
----
-
-# ⭐ If you like this project
-
-Please consider giving this repository a ⭐ on GitHub.
